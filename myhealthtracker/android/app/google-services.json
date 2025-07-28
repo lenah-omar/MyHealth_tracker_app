@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019671918439",
+    "project_id": "myhealthtracker-afd26",
+    "storage_bucket": "myhealthtracker-afd26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019671918439:android:0b54b7f40807c77a38e1c2",
+        "android_client_info": {
+          "package_name": "com.example.myhealth_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVEhKuQ-FAqaj4I8HZP2P9nJI6q-UI-nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
